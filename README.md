@@ -1,5 +1,5 @@
 #  Hi i'm Amit Kumar Jena
-##About me: 
+## About me: 
 i'm Currently a 2nd year CSE-Data Science student at Sri Venkateshwara College of Engineering.<br>i'm intrested in Gen- AI, machine Learning, Web Development, Data Analysis.<br>i'm looking for internships to improve myself more efficiently and implement the skills i have learnt. 
 
 
